@@ -1,0 +1,12 @@
+E:\Proyecto\Ecommerce\Ecommerce\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.deps.json
+E:\Proyecto\Ecommerce\Ecommerce\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.dll
+E:\Proyecto\Ecommerce\Ecommerce\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.pdb
+E:\Proyecto\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyecto\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.AssemblyInfoInputs.cache
+E:\Proyecto\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.AssemblyInfo.cs
+E:\Proyecto\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.csproj.CoreCompileInputs.cache
+E:\Proyecto\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.sourcelink.json
+E:\Proyecto\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.dll
+E:\Proyecto\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\refint\Ecommerce.DTO.dll
+E:\Proyecto\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.pdb
+E:\Proyecto\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\ref\Ecommerce.DTO.dll
